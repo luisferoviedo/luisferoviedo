@@ -29,5 +29,5 @@ I build web applications that combine clean engineering with real-world impact: 
 ## Let's connect
 
 - 🌐 [mexion.dev](https://mexion.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/luisferoviedo) *(actualiza con tu URL real)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/luisfoviedob/)
 - 📧 ingluisferoviedo@gmail.com
